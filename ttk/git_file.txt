@@ -1,0 +1,18 @@
+https://in.video.search.yahoo.com/search/video?fr=mcafee&ei=UTF-8&p=how+to+install+linux+in+windows+device&type=E211IN826G0#id=1&vid=19b5603b73dad36a3dd6c1275d5383de&action=click
+
+https://www.geeksforgeeks.org/python-programming-language/#python_basics
+
+
+
+git clone <link>
+
+create the file/folder(mrdir)
+
+git status
+
+git add
+
+git commit -m "message"
+
+git push
+
